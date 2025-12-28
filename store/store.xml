@@ -1,0 +1,10 @@
+<entrylist>
+  <entry name="editor">
+    <value name="title">Code Editor</value>
+    <value name="description">Lightweight source code editor</value>
+    <value name="category">Development</value>
+    <value name="icon">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-FrrX_40wYttWJx4qG4Ny4KrB9ShoL-q7Q</value>
+    <value name="download">https://example.com/editor.zip</value>
+    <value name="version">1.2.0</value>
+  </entry>
+</entrylist>
